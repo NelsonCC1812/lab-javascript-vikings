@@ -29,7 +29,6 @@ class Viking extends Soldier {
     battleCry() {
         return "Odin Owns You All!"
     }
-
 }
 
 // Saxon
@@ -78,5 +77,4 @@ class War {
         else return "Vikings and Saxons are still in the thick of battle."
 
     }
-
 }
